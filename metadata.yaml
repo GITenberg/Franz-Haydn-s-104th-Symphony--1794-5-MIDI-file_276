@@ -1,0 +1,30 @@
+_repo: Franz-Haydn-s-104th-Symphony--1794-5-MIDI-file_276
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haydn, Joseph
+    aliases:
+    - Haydn, Franz Joseph
+    - Haydn, Franz Josef
+    birthdate: 1732
+    deathdate: 1809
+    gutenberg_agent_id: '157'
+    url: http://www.gutenberg.org/2009/agents/157
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Haydn
+description: MIDI file
+gutenberg_issued: '1995-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '276'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Music'
+- !lcc 'M'
+- GITenberg
+title: 'Franz Haydn''s 104th Symphony [1794-5]
+
+  MIDI file'
+url: http://www.gutenberg.org/ebooks/276
